@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a .NET developer, husband and father (but not necessarily in that order). I like starting lots of projects just to determine if I what I'm thinking is possible. I'm not the best at finishing them; I figure that's because once I've determined that something can be done the project becomes boring and I move on to something else.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is intended to be a place for me to share things I learn from projects I start, or my thoughts how to improve productivity within development teams.
