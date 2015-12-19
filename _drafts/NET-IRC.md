@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  ".NET IRC Client"
-date:   2016-1-15 19:23:41 +0000
 categories: update
 ---
 
