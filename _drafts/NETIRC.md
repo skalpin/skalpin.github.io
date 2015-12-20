@@ -9,7 +9,7 @@ Since I've been using IRC more lately, I've been wanting to integrate
 it with other services. Also since this is my first blog I wanted to
 start with a project that would be easy to implement.
 
-{% highlight cs %}
+{% highlight csharp %}
 async Task Connect()
 {
 	var HOST = "irc.freenode.net";
