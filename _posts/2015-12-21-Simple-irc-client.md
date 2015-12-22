@@ -13,13 +13,15 @@ you could do all of this in a telnet session if you wanted to.
 
 ##Telnet
 To get into the server all you need to do is open a console and type
-```
+
+{% highlight bash %}
 telnet irc.freenode.net 6667
 NICK mynickname
 USER foo bar bin :bash
 JOIN #mytestchannel
 PRIVMSG #mytestchannel :This is just a test
-```
+{% endhighlight %}
+
 And that's it!
 You've just logged into an irc server, sent it a few commands to tell it what your nickname
 should be and what channel you want to be in. Then you sent a message to the channel using PRIVMSG.
