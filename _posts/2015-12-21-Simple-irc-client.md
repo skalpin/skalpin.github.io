@@ -14,13 +14,13 @@ you could do all of this in a telnet session if you wanted to.
 ##Telnet
 To get into the server all you need to do is open a console and type
 
-{% highlight bash %}
+<pre>
 telnet irc.freenode.net 6667
 NICK mynickname
 USER foo bar bin :bash
 JOIN #mytestchannel
 PRIVMSG #mytestchannel :This is just a test
-{% endhighlight %}
+</pre>
 
 And that's it!
 You've just logged into an irc server, sent it a few commands to tell it what your nickname
