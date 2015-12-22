@@ -8,8 +8,10 @@ categories: update
 #IRC Client
 Since I've been using IRC more lately, I've been wanting to integrate
 it with other services. Also since this is my first blog I wanted to
-start with a project that would be easy to implement, and sure enough it was. In fact
-you could do all of this in a telnet session if you wanted to.
+start with a project that would be easy to implement. In fact the api is so easy,
+you could do all of this in a telnet session if you wanted to. So below are
+examples of how you can communicate with an IRC server over telnet, and some methods to
+get you going in C#. 
 
 ##Telnet
 To get into the server all you need to do is open a console and type
@@ -25,7 +27,7 @@ PRIVMSG #mytestchannel :This is just a test
 And that's it!
 You've just logged into an irc server, sent it a few commands to tell it what your nickname
 should be and what channel you want to be in. Then you sent a message to the channel using PRIVMSG.
-If you want to experiment with other commands you can type HELP <command> into the telnet
+If you want to experiment with other commands you can type HELP into the telnet
 session to learn more.
 
 ##C\#
