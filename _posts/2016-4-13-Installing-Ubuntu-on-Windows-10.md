@@ -7,7 +7,7 @@ categories: update
 
 # Get Excited
 
-Because I'm a Windows .NET developer by day and a wanna be Ubuntu developer by night this new
+Because I'm a Windows .NET developer by day and a wannabe Ubuntu developer by night this new
 feature in Windows 10 is especially exciting for me so what am I supposed to do besides
 write a new blog article about it.
 
