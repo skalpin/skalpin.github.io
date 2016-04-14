@@ -5,13 +5,13 @@ date: 2016-4-13
 categories: update
 ---
 
-# Get Excited
+## Get Excited
 
 Because I'm a Windows .NET developer by day and a wannabe Ubuntu developer by night this new
 feature in Windows 10 is especially exciting for me so what am I supposed to do besides
 write a new blog article about it.
 
-# Windows 10 Build 14316
+## Windows 10 Build 14316
 
 To start with you need to get the Windows 10 Insider Preview build 14316.
 The problem is, this cannot just be downloaded and installed. Using your MSDN license
@@ -24,21 +24,21 @@ need to make sure you are setup to receive builds "fast".
 
 One more thing to note: I had to wait 24 hours to receive an update to 14316 (bummer).
 
-# Enable the Linux Feature
+## Enable the Linux Feature
 
 Good! You've now got Windows Insider Preview 14316 installed. No you need to right click on
 the start menu and go to "Programs and Features". Then navigate to "Turn Windows features on or off".
 Once you're looking at the windows features list select the "Windows Subsystem for Linux (Beta)".
 This feature requires a computer restart.
 
-# Installing bash
+## Installing bash
 
 So installing the Linux Subsystem will give you a new program called bash. Run it.
 You will be asked if you would like to install bash. Type 'y' and hit enter (duh). This will go
 download and install what you need to get going with bash. When it's complete you will be presented
 with a `root@localhost:~#` prompt. As you probably noticed you're root... so be careful.
 
-# Updating bash
+## Updating bash
 
 The next thing you'll need to do is update your package list. `apt-get update` will do it, maybe.
 I ran into some issues with my network. None of the sources could be found. In fact a simple
