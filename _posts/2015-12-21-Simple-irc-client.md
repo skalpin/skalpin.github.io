@@ -5,7 +5,8 @@ date: 2015-12-21
 categories: update
 ---
 
-#IRC Client
+# IRC Client
+
 Since I've been using IRC more lately, I've been wanting to integrate
 it with other services. Also since this is my first blog I wanted to
 start with a project that would be easy to implement. In fact the api is so easy,
@@ -13,7 +14,8 @@ you could do all of this in a telnet session if you wanted to. So below are
 examples of how you can communicate with an IRC server over telnet, and some methods to
 get you going in C#. 
 
-##Telnet
+## Telnet
+
 To get into the server all you need to do is open a console and type
 
 <pre>
@@ -30,7 +32,8 @@ should be and what channel you want to be in. Then you sent a message to the cha
 If you want to experiment with other commands you can type HELP into the telnet
 session to learn more.
 
-##C\#
+## C\#
+
 The code below does the following.
 
 1. Open a tcp client to the host on the selected port.
