@@ -47,9 +47,9 @@ and IPv6 so you need to edit your sources list and move the IPv6 ones to the bot
 completely. My generated `/etc/resolv.conf` looked like this:
 
 ```
+domain hsd1.mn.comcast.net.
 nameserver 2001:558:feed::2
 nameserver 2001:558:feed::1
-domain hsd1.mn.comcast.net.
 nameserver 192.168.0.1
 ```
 
@@ -58,10 +58,10 @@ at the bottom of the list.
 
 ```
 domain hsd1.mn.comcast.net.
-nameserver 8.8.8.8
 nameserver 192.168.0.1
 nameserver 2001:558:feed::2
 nameserver 2001:558:feed::1
 ```
 
 **Now** you should be able to run `apt-get update && apt-get upgrade` to upgrade your systems package lists.
+Unfortunately you might have to do this every time you open bash if you want bash to have access to the internet.
