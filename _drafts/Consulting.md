@@ -17,3 +17,10 @@ The alternative obviously is to work at a company that writes some large scale e
 that most of the people who work at the company use. Working on enterprise software can be great
 for development processes, but you generally get caught working with older technology because
 upgrading everyone in the company comes with costs.
+
+I've decided to go with consulting. I will get to keep my skills relavant, and I get to work
+with new clients and new projects frequently. I have however decided to move to a larger consulting
+company that works on larger projects than my previous one. I find that this move will keep
+me up to date on the latest development processes. Developers played all of the roles at my previous
+company and we spent a lot of time building technical debt and not implementing the best overall
+solution to the problem.
