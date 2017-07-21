@@ -6,12 +6,16 @@ categories: update
 
 # The Need for Acceptance Tests
 
-## Estimates
+## Task Estimates
 
-- Giving any sort of estimate before the test steps that define "done" are complete is irresponsible.
-  - But the client can't give it to us because they don't know what's possible.
-  - Then timebox the work and see if you can define it within a couple of days.
-  - If the client does get an estimate they will plan work around it even if you say things like "I can do this within a couple of days, but it won't be done because I don't know what you want it to actually be". They will still plan to test it as soon as it is done and have people on the clock who don't know what they are testing or how to test it.
+So the client asked you for an estimate and you don't feel that you have enough information to give one. In this instance I am assuming the client has decided that the task at hand is on their *critical path*. When the client is building a schedule, they are trying to determine what tasks are dependencies for other ones and need to know how long tasks will take in order to complete. The problem arises if the client has not spent any time defining *done* and instead has decided to define how the problem needs to be solved. In their mind there is no problem to solution through because it is not complex, and all you need to do is translate the english into code. In these cases the client has no idea what else is going on in the system, and often they don't know how they are going to test what you are going to write. 
+Giving any sort of estimate before the test steps that define "done" are complete is irresponsible. This includes pointing, tshirt sizing, or SWAG estimates. If you don't know what the client will accept as complete... what are you trying to complete?
+Giving an estimate in this state is also very risky. When you give the work a time frame, the client will schedule people to be ready as soon as the work is complete to validate your work.
+
+>If you don't know what the client will accept as complete... what are you trying to complete?
+
+- If you need to spend some time discovering what is possible to give options to the client, then you need to **timebox** the spike. This will give them at least a way to know when you will come back with more information. Then as a team you can reevaluate the situation.
+
 
 ## Acceptance Test Steps
 
