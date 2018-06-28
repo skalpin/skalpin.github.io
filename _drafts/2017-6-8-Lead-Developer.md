@@ -13,4 +13,3 @@ categories: update
 4. Package code for production environments
 5. Document code (developer onboarding and handoff manual to support)
 6. Delegate work to team members
-7. 
