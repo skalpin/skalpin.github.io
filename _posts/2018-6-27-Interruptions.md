@@ -5,8 +5,6 @@ date: 2018-6-27
 categories: update
 ---
 
-# Interruptions
-
 ## How can I continue to do work *and* allow myself to be interruptable?
 
 Currently I am the *Dev Lead* on my project. In my current role it is expected first that I am available to my development team.

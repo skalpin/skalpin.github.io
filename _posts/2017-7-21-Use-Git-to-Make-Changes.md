@@ -5,8 +5,6 @@ date: 2017-7-21
 categories: update
 ---
 
-# Use Git to Make Changes
-
 I have been using `git` for a number of years and have come up with a workflow that lets me write code how I want, and then clean up the process later. My philosphy has always been
 >Nobody wants to know how I write code. This is a mess!
 
