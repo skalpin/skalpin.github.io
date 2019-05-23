@@ -5,7 +5,7 @@ date: 2019-5-21
 categories: update
 ---
 
-## Edits:
+## Edits
 
 2019-05-23: Removed habit table in favor of lists.
 
@@ -28,11 +28,17 @@ This post will get updated as I think of more habits.
 
 ### Good Habits
 
-#### Don't guess. Measure.
+#### Don't guess. Measure
 
 1. Cue: A Bug is discovered.
 2. Routine: Write unit test to expose the issue. Correct issue. Submit PR
-3. Reward: Feeling Productive
+3. Reward: Feeling productive
+
+#### Focused time
+
+1. Cue: Recognize body of work to complete
+2. Routine: Turn off email, IM, and phone. Work on tasks for an hour or two.
+3. Reward: Feeling productive
 
 ### Bad Habits
 
@@ -46,7 +52,7 @@ without running solution.
 #### Blame design for not understanding program
 
 1. Cue: Feeling lost in code. Unable to navigate code. Unable to make changes
-reliabily.
+reliably.
 2. Routine: Restructure program without consulting team. Ignore unit tests
 because they tested the _old_ program structure. Continue restructure
 through entire code base.
@@ -57,3 +63,9 @@ through entire code base.
 1. Cue: Email notification
 2. Routine: Stop what you are working on and respond to email right away.
 3. Reward: Feeling productive
+
+#### Interrupt co-worker needlessly
+
+1. Cue: Feeling bored at work
+2. Routine: IM friend
+3. Reward: Feeling connected
