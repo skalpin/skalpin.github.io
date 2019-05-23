@@ -5,6 +5,10 @@ date: 2019-5-21
 categories: update
 ---
 
+## Edits:
+
+2019-05-23: Removed habit table in favor of lists.
+
 ## Habits
 
 Habits are the things we do without thinking about them. Habits allow us to
@@ -24,14 +28,32 @@ This post will get updated as I think of more habits.
 
 ### Good Habits
 
-| Cue                                 | Routine                                                   | Reward             |
-| ----------------------------------- | --------------------------------------------------------- | ------------------ |
-| A bug is discovered                 | Write unit test to expose issue. Correct issue. Submit PR | Productive feeling |
-| Discover large technical debt issue |                                                           |                    |
+#### Don't guess. Measure.
+
+1. Cue: A Bug is discovered.
+2. Routine: Write unit test to expose the issue. Correct issue. Submit PR
+3. Reward: Feeling Productive
 
 ### Bad Habits
 
-| Cue                                 | Routine                                                                                  | Reward                                              |
-| ----------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| A bug is discovered                 | Guess at what problem is and submit PR                                                   | Productive feeling / Relief that workload decreases |
-| Discover large technical debt issue | Restructure program without consulting team. Break tests. Resolve to correct tests later | Productive feeling. Control                         |
+#### Guess and propose solution
+
+1. Cue: A bug is discovered.
+2. Routine: Assume you know what the issue is. Make change to code and submit PR
+without running solution.
+3. Reward: Feeling productive
+
+#### Blame design for not understanding program
+
+1. Cue: Feeling lost in code. Unable to navigate code. Unable to make changes
+reliabily.
+2. Routine: Restructure program without consulting team. Ignore unit tests
+because they tested the _old_ program structure. Continue restructure
+through entire code base.
+3. Reward: Feeling productive
+
+#### Check email constantly
+
+1. Cue: Email notification
+2. Routine: Stop what you are working on and respond to email right away.
+3. Reward: Feeling productive
