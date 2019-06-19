@@ -7,6 +7,7 @@ categories: update
 
 ## Edits
 
+2019-06-19: Adding Kent Beck's Two Hats
 2019-05-23: Removed habit table in favor of lists.
 
 ## Habits
@@ -27,6 +28,12 @@ change.
 This post will get updated as I think of more habits.
 
 ### Good Habits
+
+#### Switch Hats
+
+1. Cue: While working on feature, discover a refactoring that needs to occur.
+2. Routine: Stop working on feature and actively refactor section of code.
+3. Reward: Continue working with clean code.
 
 #### Don't guess. Measure
 
