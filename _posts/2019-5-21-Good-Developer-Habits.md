@@ -7,8 +7,8 @@ categories: update
 
 ## Edits
 
-2019-06-19: Adding Kent Beck's Two Hats
-2019-05-23: Removed habit table in favor of lists.
+- 2019-06-19: Adding Kent Beck's Two Hats
+- 2019-05-23: Removed habit table in favor of lists.
 
 ## Habits
 
