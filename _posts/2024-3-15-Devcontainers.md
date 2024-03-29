@@ -4,7 +4,6 @@ title:  "Devcontainers"
 date:   2024-03-15 00:00:00 +0000
 categories: update
 ---
-# Development Containers
 
 Development containers have completely changed my local development workflow. They make it easier
 for me to use the correct version of the tools I need for each specific project, and they help
